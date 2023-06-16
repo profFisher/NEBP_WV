@@ -1,0 +1,10 @@
+06/16/2023 Notes from Fisher
+1) For flight make sure you tape the SD card in place OR do something to secure it so that it does not "wiggle" out
+2) Glue the LED cover on OR take it off if you need to conserve weight
+3) On POWER UP
+3.1) It takes 41 seconds to get good date and time data
+3.2) It takes 258 seconds to get good GPS data
+4) Temperature - when directly in the SUN the sensor reads really HOT (e.g., 100 deg F) when the ambient temp is around 70 deg F
+5) Version 12 of the flight code, I modified the serial comm baud rate between GPS and Teensy from 39400 to 38400
+6) It is recommended we remove GPS from board and switch to I2C communication between GPS and Teensy. This is to get the GPS antenna away from the Teensy I/O pins. 
+6.1) This also requires upgrading to version 15 of the flight code
