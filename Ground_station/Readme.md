@@ -3,7 +3,7 @@
 
 ## 29/06/23
 
-	- Do outdoor testing for Iridium (planned)
+- Do outdoor testing for Iridium (planned)
 
 
 ## 28/06/23
