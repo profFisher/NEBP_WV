@@ -1,2 +1,4 @@
-./docs/out/*.pdf
-./docs/out
+docs/out/*.pdf
+docs/out
+
+**/*.pdf
