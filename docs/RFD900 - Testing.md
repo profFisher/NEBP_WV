@@ -4,10 +4,10 @@
 - Ran tests to see why the data was not correctly saved
 - design report: [here][https://drive.google.com/file/d/1HJm21-mG5jri2jbTdC5BQTLqtb0IvBZx/view]
 	- Source code is available as an appendix
-- There is a blocking routine in the SD card is not available during boot. (No RF data or SD data)
+- There is a blocking routine and if the SD card is not available during boot. (No RF data or SD data)
 	- when correct operation there is a single blinking light on the board (identify led)
-- after initial boot in the card is yanked RF data is sent correctly
-- RFD900: when link is connected there is a red led blinking. They can be powered on at any order loose connection/re connection is fine 
+- after initial boot even if the card is yanked RF data is sent correctly
+- RFD900: when link is connected there is a red led blinking (on both RF modules) They can be powered on at any order loose connection/re connection is fine 
 - During the tests an omni-directional "ducky" was used on both ends
 
 ### 28/11/2023 

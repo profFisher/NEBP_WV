@@ -16,17 +16,22 @@ file = '../Data/RFD900/PAYLOAD.CSV.5';
 df = pd.read_csv(file)
 
 
-cols = ['Analog External','Analog Internal','Digital Internal','Digital External']
+cols = ['Analog External','Analog Internal','Digital Internal','Digital External','Accel A', 'Accel Y', 'Accel Z']
 
-for col in cols:
+#for col in cols[0:4]:
+#    df[col] = df[col].astype(float)
+#    plt.plot(df[col])
+#    
+#plt.legend(cols)
+#plt.ylabel(r'$c$')
+#plt.xlabel(r'$time (s)$')
+
+plt.figure()
+
+for col in cols[4:]:
     df[col] = df[col].astype(float)
     plt.plot(df[col])
     
-plt.legend(cols)
-plt.ylabel(r'$c$')
-plt.xlabel(r'$time (s)$')
-
-
 
 
 

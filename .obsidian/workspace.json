@@ -128,12 +128,21 @@
                 "file": "docs/RFD900 - Testing.md"
               }
             }
+          },
+          {
+            "id": "9fb30081b7d426ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bce703c4c3cfac8d",
+  "active": "da2320fcdb9734ac",
   "lastOpenFiles": [
     "docs/out/RFD900_testing_KE8TJE.pdf",
     "docs/out",
