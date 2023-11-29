@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 389.5
   },
   "right": {
     "id": "e18cecd5aaedf391",
@@ -156,6 +156,9 @@
   },
   "active": "bce703c4c3cfac8d",
   "lastOpenFiles": [
+    "Data/images/Pasted image 20231128223221.png",
+    "docs/RFD900 - Testing.md",
+    "Data/images/Pasted image 20231128205331.png",
     "README.md",
     "old/WV-NEBP_TeamMtg_01262023.pptx",
     "old/WV-NEBP_Mission-GettingInvolved-01222023.pptx",
@@ -166,11 +169,9 @@
     "old",
     "untitled folder",
     "Ground_station/Readme.md",
-    "docs/RFD900 - Testing.md",
     "docs/out/RFD900_testing_KE8TJE.pdf",
     "docs/out",
     "Data/images/Pasted image 20231128210817.png",
-    "Data/images/Pasted image 20231128205331.png",
     "Data/images/NEBP-WV-Schedule-01182023.PNG",
     "Pasted image 20231128203925.png",
     "docs/Recovery check list.md",
