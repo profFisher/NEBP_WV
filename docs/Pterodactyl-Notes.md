@@ -1,4 +1,4 @@
-### 06/16/2023 Notes (from Fisher)
+### 06/16/2023 - Notes (Fisher)
 
 -  For flight make sure you tape the SD card in place OR do something to secure it so that it does not "wiggle" out
 - Glue the LED cover on OR take it off if you need to conserve weight
@@ -10,7 +10,7 @@
 - It is recommended we remove GPS from board and switch to I2C communication between GPS and Teensy. This is to get the GPS antenna away from the Teensy I/O pins. 
 	- This also requires upgrading to version 15 of the flight code
 
-### 10/14/23  NEBP TX launch
+### 10/14/23 - NEBP TX launch
 
 - Data files exported. data stops mid launch.
 - [ ] investigate the data stop #todo 
