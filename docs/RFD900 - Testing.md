@@ -24,6 +24,11 @@
 	- [ ] make a script to rename data files and move automatically #task
 - GPS lock time: ~36 s (based off of past runs)
 	![Pasted image 20231128205331](../Data/images/Pasted%20image%2020231128205331.png)
+	
 - Temperature data
 	![Pasted image 20231128210817](../Data/images/Pasted%20image%2020231128210817.png)
+	
+
+
+### <next update>
 
