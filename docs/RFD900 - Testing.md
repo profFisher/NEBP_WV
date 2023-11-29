@@ -23,6 +23,6 @@
 	- For now old data is moved to `./old/` in the SD card after adding an index to the end of the file name
 	- [ ] make a script to rename data files and move automatically #task
 - GPS lock time: ~36 s (based off of past runs)
-	![[Pasted image 20231128205331.png]]
+	![[../Data/images/Pasted image 20231128205331.png]]
 - Temperature data
-	![[Pasted image 20231128210817.png]]
+	![[../Data/images/Pasted image 20231128210817.png]]

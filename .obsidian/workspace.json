@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/RFD900 - Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "right": {
     "id": "e18cecd5aaedf391",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/RFD900 - Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/RFD900 - Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/RFD900 - Testing.md"
               }
             }
           },
@@ -156,23 +156,24 @@
   },
   "active": "bce703c4c3cfac8d",
   "lastOpenFiles": [
-    "Ground_station/Readme.md",
     "README.md",
+    "old/WV-NEBP_TeamMtg_01262023.pptx",
+    "old/WV-NEBP_Mission-GettingInvolved-01222023.pptx",
+    "old/statewidecompetitiondraft.docx",
+    "old/SolarEclipseMission-Overview-FisherNotes.pptx",
+    "old/nationalcompetitiondraft.docx",
+    "old/logocompstatewithtemplates.pub",
+    "old",
+    "untitled folder",
+    "Ground_station/Readme.md",
     "docs/RFD900 - Testing.md",
     "docs/out/RFD900_testing_KE8TJE.pdf",
     "docs/out",
     "Data/images/Pasted image 20231128210817.png",
-    "Data/RFD900/PAYLOAD.CSV.5",
     "Data/images/Pasted image 20231128205331.png",
     "Data/images/NEBP-WV-Schedule-01182023.PNG",
-    "Data/images",
     "Pasted image 20231128203925.png",
-    "src/rfd900_sd.py",
-    "src",
-    "untitled folder",
     "docs/Recovery check list.md",
-    "docs/APRS payload - Evaluation.pdf",
-    "docs/Untitled.md",
-    "docs"
+    "docs/Untitled.md"
   ]
 }
