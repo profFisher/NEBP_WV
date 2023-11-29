@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/RFD900 - Testing.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/RFD900 - Testing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/RFD900 - Testing.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/RFD900 - Testing.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2320fcdb9734ac",
+  "active": "bce703c4c3cfac8d",
   "lastOpenFiles": [
+    "Ground_station/Readme.md",
+    "README.md",
+    "docs/RFD900 - Testing.md",
     "docs/out/RFD900_testing_KE8TJE.pdf",
     "docs/out",
     "Data/images/Pasted image 20231128210817.png",
@@ -164,7 +167,6 @@
     "Data/images/NEBP-WV-Schedule-01182023.PNG",
     "Data/images",
     "Pasted image 20231128203925.png",
-    "docs/RFD900 - Testing.md",
     "src/rfd900_sd.py",
     "src",
     "untitled folder",
