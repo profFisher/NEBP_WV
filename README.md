@@ -6,5 +6,5 @@ The team comprised from WV Space Grant and Trinity Christian School (TCS) will u
 
 ## To-do list
 ```tasks
-tags include task
+tags include todo
 ```
