@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "95d6304d758ebdf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "97325ee5f6aef6da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce703c4c3cfac8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/RFD900 - Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1fc5edbb15d1772",
+    "type": "split",
+    "children": [
+      {
+        "id": "0292c68ebda2b25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c04f715b2d75ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abd357eb1be1e794",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f9f71e7254c902c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e18cecd5aaedf391",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c5909222f64273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da2320fcdb9734ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/RFD900 - Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74fa31e4d25a1651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/RFD900 - Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55893277b098c5e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0090f8fe064268d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/RFD900 - Testing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bce703c4c3cfac8d",
+  "lastOpenFiles": [
+    "docs/out/RFD900_testing_KE8TJE.pdf",
+    "docs/out",
+    "Data/images/Pasted image 20231128210817.png",
+    "Data/RFD900/PAYLOAD.CSV.5",
+    "Data/images/Pasted image 20231128205331.png",
+    "Data/images/NEBP-WV-Schedule-01182023.PNG",
+    "Data/images",
+    "Pasted image 20231128203925.png",
+    "docs/RFD900 - Testing.md",
+    "src/rfd900_sd.py",
+    "src",
+    "untitled folder",
+    "docs/Recovery check list.md",
+    "docs/APRS payload - Evaluation.pdf",
+    "docs/Untitled.md",
+    "docs"
+  ]
+}
