@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,12 +156,12 @@
   },
   "active": "ca21fbc6b5c292ed",
   "lastOpenFiles": [
-    "docs/APRS payload - Evaluation.pdf",
-    "docs/Pterodactyl-Notes.md",
-    "docs/out/Pterodactyl-Notes.pdf",
-    "docs/RFD900 - Testing.md",
-    "docs/out/RFD900 - Testing.pdf",
     "docs/Recovery check list.md",
+    "docs/Pterodactyl-Notes.md",
+    "docs/RFD900 - Testing.md",
+    "docs/APRS payload - Evaluation.pdf",
+    "docs/out/Pterodactyl-Notes.pdf",
+    "docs/out/RFD900 - Testing.pdf",
     "Ground_station/Readme.md",
     "README.md",
     "Data/images/Pasted image 20231128223221.png",

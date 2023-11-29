@@ -22,6 +22,7 @@
 	- May be change the code so that it will make new files by the date of the launch.  (not critical)
 	- For now old data is moved to `./old/` in the SD card after adding an index to the end of the file name
 	- [ ] make a script to rename data files and move automatically #todo 
+	- [ ] data export to video feed #todo #python
 - GPS lock time: ~36 s (based off of past runs)
 	
 	![Pasted image 20231128205331](../Data/images/Pasted%20image%2020231128205331.png)
