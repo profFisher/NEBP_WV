@@ -1,0 +1,9 @@
+{
+  "CHROME_PATH": "/snap/bin/chromium",
+  "ThemePath": "",
+  "EnableHTML": false,
+  "MathTypesettings": "mathjax",
+  "HTMLExportMode": "bare",
+  "EXPORT_PATH": "",
+  "EnableSyncPreview": true
+}
