@@ -17,7 +17,7 @@
 	- python and RF data was collected
 - Temperature data may not be calibrated properly 
 -  analog vs Digital sensors show huge deviations 
-- Data available: `./Data/RFD900/
+- Data available: `./Data/RFD900/`
 -  Data is appending to the same file `PAYLOAD.CSV`
 	- May be change the code so that it will make new files by the date of the launch.  (not critical)
 	- For now old data is moved to `./old/` in the SD card after adding an index to the end of the file name

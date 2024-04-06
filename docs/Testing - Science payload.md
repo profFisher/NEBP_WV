@@ -5,7 +5,7 @@ Listing down some ideas I had:
  - NEBP provided cut-down system needs to be tested before burst.
 	 - We can send multiple commands. in the past we had natural bursts always soon after the command was sent and we are unable to verify if we have that capability 
 	 - Accurate ascent rate calculation and measurement 
-		 - Evaluate and test new procedures for filling and finding the list prior to release
+		 - Evaluate and test new procedures for filling and finding the lift prior to release
 		 - better landing predictions (recalculating based on sonde-hub data)
 ---
 ## Science payload - what is it ?
